@@ -8,6 +8,4 @@ Engineer moving into **data analysis / data engineering**, ideally in **energy**
 
 
 📍 Lille
-
-
 💼 [linkedin.com/](https://www.linkedin.com/in/la-win-amouro/)
