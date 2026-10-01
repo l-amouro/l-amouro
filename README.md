@@ -7,4 +7,7 @@ Engineer moving into **data analysis / data engineering**, ideally in **energy**
 - 📊 In progress: energy dashboard on RTE éCO2mix open data
 
 
-📍 Lille / Roubaix ·💼 [linkedin.com/](https://www.linkedin.com/in/la-win-amouro/)
+📍 Lille
+
+
+💼 [linkedin.com/](https://www.linkedin.com/in/la-win-amouro/)
